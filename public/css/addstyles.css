@@ -1,0 +1,16 @@
+.add .table span{
+    width:10rem;
+    margin-right:8rem;
+}
+
+.add a.right{
+    float:right;
+    margin-bottom: 3rem;
+}
+.table .title{
+    text-align: center;
+}
+
+.table ul.title{
+    background-color:darkslateblue;
+}
