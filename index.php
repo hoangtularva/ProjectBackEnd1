@@ -31,10 +31,10 @@ $categoryList = $categoryModel->getCategoryList();
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="https://mooxdronestore111.000webhostapp.com/public/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://mooxdronestore222.000webhostapp.com/public/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://mooxdronestore111.000webhostapp.com/public/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="https://mooxdronestore111.000webhostapp.com/public/css/styles.css">
+  <link rel="stylesheet" href="https://mooxdronestore222.000webhostapp.com/public/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="https://mooxdronestore222.000webhostapp.com/public/css/styles.css">
 </head>
 
 <body>
@@ -62,8 +62,8 @@ $categoryList = $categoryModel->getCategoryList();
   <header class="top-header">
     <nav class="navbar navbar-expand-sm navbar-light bg-nav">
       <div class="container">
-        <a href="https://mooxdronestore111.000webhostapp.com/index.php">
-          <img src="https://mooxdronestore111.000webhostapp.com/public/images/logo.png" alt="logo" class="img-fluid">
+        <a href="https://mooxdronestore222.000webhostapp.com/index.php">
+          <img src="https://mooxdronestore222.000webhostapp.com/public/images/logo.png" alt="logo" class="img-fluid">
         </a>
         <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId"
           aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,7 +72,7 @@ $categoryList = $categoryModel->getCategoryList();
         <div class="collapse navbar-collapse" id="collapsibleNavId">
           <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
             <li class="nav-item active">
-              <a class="nav-link" href="https://mooxdronestore111.000webhostapp.com/index.php">HOME
+              <a class="nav-link" href="https://mooxdronestore222.000webhostapp.com/index.php">HOME
                 <span class="sr-only">(current)</span></a>
             </li>
             <?php
@@ -81,7 +81,7 @@ $categoryList = $categoryModel->getCategoryList();
               ?>
             <li class="nav-item active">
               <a class="nav-link"
-                href="https://mooxdronestore111.000webhostapp.com/category.php/<?php echo $catName . '-' . $cat['category_id'] ?>"><?php echo strtoupper($cat['category_name']); ?></a>
+                href="https://mooxdronestore222.000webhostapp.com/category.php/<?php echo $catName . '-' . $cat['category_id'] ?>"><?php echo strtoupper($cat['category_name']); ?></a>
             </li>
             <?php
                 }
@@ -107,36 +107,36 @@ $categoryList = $categoryModel->getCategoryList();
         </ul>
         <div class="carousel-inner">
           <div class="carousel-item active mr-auto mt-2 mt-lg-0">
-            <img src="https://mooxdronestore111.000webhostapp.com/public/images/slider-01.jpg" alt="Flycam Erida" class="img-fluid">
+            <img src="https://mooxdronestore222.000webhostapp.com/public/images/slider-01.jpg" alt="Flycam Erida" class="img-fluid">
             <div class="carousel-caption">
               <h1 class="text">Cam-equipped <br> Quadcopters</h1>
               <p class="text-nav">Purchase one of these copters and enable yourself
                 <br> to take 4K quality videos and photos!</p>
               <div class="canh-0">
-                <p><a class="shop-1" href="https://mooxdronestore111.000webhostapp.com/index.php">Shop Now!</a></p>
+                <p><a class="shop-1" href="https://mooxdronestore222.000webhostapp.com/index.php">Shop Now!</a></p>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://mooxdronestore111.000webhostapp.com/public/images/slider-02.jpg" alt="Flycam 3DR" class="img-fluid">
+            <img src="https://mooxdronestore222.000webhostapp.com/public/images/slider-02.jpg" alt="Flycam 3DR" class="img-fluid">
             <div class="carousel-caption">
               <p class="sale-1">Drones, quadcopters, hexacopter and octocopters all come at a staggering 10% discount
                 this summer! </p>
               <h1 class="sale-2">10% OFF</h1>
               <h3 class="sale-3">Your 1st Drone!</h3>
               <div class="canh-1">
-                <p><a class="shop-2" href="https://mooxdronestore111.000webhostapp.com/index.php">Shop Now!</a></p>
+                <p><a class="shop-2" href="https://mooxdronestore222.000webhostapp.com/index.php">Shop Now!</a></p>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://mooxdronestore111.000webhostapp.com/public/images/slider-3.jpg" alt="Flycam EPD" class="img-fluid">
+            <img src="https://mooxdronestore222.000webhostapp.com/public/images/slider-3.jpg" alt="Flycam EPD" class="img-fluid">
             <div class="carousel-caption">
               <h2 class="text-1">Variety of <br> Gimbals</h2>
               <p class="text-2">On par with a wide range of drones,
                 <br> we also offer a wide variety of gimbals!</p>
               <div class="canh-2">
-                <p><a class="shop-3" href="https://mooxdronestore111.000webhostapp.com/index.php">Shop Now!</a></p>
+                <p><a class="shop-3" href="https://mooxdronestore222.000webhostapp.com/index.php">Shop Now!</a></p>
               </div>
             </div>
           </div>
@@ -156,17 +156,17 @@ $categoryList = $categoryModel->getCategoryList();
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img src="https://mooxdronestore111.000webhostapp.com/public/images/mt-1169_home_bg01.png" alt="flycam-1" class="img-fluid">
+          <img src="https://mooxdronestore222.000webhostapp.com/public/images/mt-1169_home_bg01.png" alt="flycam-1" class="img-fluid">
           <div class="centered">
             <h2><b>DJI Ph<span>antom 4</span></b></h2>
-            <a href="https://mooxdronestore111.000webhostapp.com/index.php">SHOP NOW!</a>
+            <a href="https://mooxdronestore222.000webhostapp.com/index.php">SHOP NOW!</a>
           </div>
         </div>
         <div class="col-md-6">
-          <img src="https://mooxdronestore111.000webhostapp.com/public/images/mt-1169_home_bg02.png" alt="flycam-2" class="img-fluid">
+          <img src="https://mooxdronestore222.000webhostapp.com/public/images/mt-1169_home_bg02.png" alt="flycam-2" class="img-fluid">
           <div class="centered">
             <h2><b>DJI Ph<span>antom 4</span></b></h2>
-            <a class="text-shopnow" href="https://mooxdronestore111.000webhostapp.com/index.php">SHOP NOW!</a>
+            <a class="text-shopnow" href="https://mooxdronestore222.000webhostapp.com/index.php">SHOP NOW!</a>
           </div>
         </div>
       </div>
@@ -193,12 +193,12 @@ $categoryList = $categoryModel->getCategoryList();
           ?>
           <div class="col-md-3">
             <div class="item">
-              <img class="img-fluid" src="https://mooxdronestore111.000webhostapp.com/public/images/<?php echo $item['product_image'];?>">
-              <a href="https://mooxdronestore111.000webhostapp.com/product.php?id=<?php echo $item['product_id'];?>" class="none-decor">
+              <img class="img-fluid" src="https://mooxdronestore222.000webhostapp.com/public/images/<?php echo $item['product_image'];?>">
+              <a href="https://mooxdronestore222.000webhostapp.com/product.php?id=<?php echo $item['product_id'];?>" class="none-decor">
                 <h5><?php echo $item['product_name'];?></h5>
               </a>
               <p><?php echo "$".$item['product_price'];?></p>
-              <a href="https://mooxdronestore111.000webhostapp.com/cart.php?id=<?php echo $item['product_id'];?>" class="btn btn-add"><i class="fas fa-shopping-cart"></i> Add to cart</a>
+              <a href="https://mooxdronestore222.000webhostapp.com/cart.php?id=<?php echo $item['product_id'];?>" class="btn btn-add"><i class="fas fa-shopping-cart"></i> Add to cart</a>
             </div>
           </div>
           <?php
@@ -208,7 +208,7 @@ $categoryList = $categoryModel->getCategoryList();
       </div>
     </div>
 
-    <p class="view"><u><a href="https://mooxdronestore111.000webhostapp.com/index.php">View More Items</a></u></p>
+    <p class="view"><u><a href="https://mooxdronestore222.000webhostapp.com/index.php">View More Items</a></u></p>
 
     <div class="arrivals">
       <div class="container">
@@ -228,19 +228,19 @@ $categoryList = $categoryModel->getCategoryList();
           ?>
           <div class="col-md-3">
             <div class="item">
-              <img class="img-fluid" src="https://mooxdronestore111.000webhostapp.com/public/images/<?php echo $item['product_image'];?>">
-              <a href="https://mooxdronestore111.000webhostapp.com/product.php?id=<?php echo $item['product_id'];?>" class="none-decor">
+              <img class="img-fluid" src="https://mooxdronestore222.000webhostapp.com/public/images/<?php echo $item['product_image'];?>">
+              <a href="https://mooxdronestore222.000webhostapp.com/product.php?id=<?php echo $item['product_id'];?>" class="none-decor">
                 <h5><?php echo $item['product_name'];?></h5>
               </a>
               <p><?php echo "$".$item['product_price'];?></p>
-              <a href="https://mooxdronestore111.000webhostapp.com/cart.php?id=<?php echo $item['product_id'];?>" class="btn btn-add"><i class="fas fa-shopping-cart"></i> Add to cart</a>
+              <a href="https://mooxdronestore222.000webhostapp.com/cart.php?id=<?php echo $item['product_id'];?>" class="btn btn-add"><i class="fas fa-shopping-cart"></i> Add to cart</a>
             </div>
           </div>
           <?php
           }
           ?>
         </div>
-        <p class="view"><u><a href="https://mooxdronestore111.000webhostapp.com/index.php">View More Items</a></u></p>
+        <p class="view"><u><a href="https://mooxdronestore222.000webhostapp.com/index.php">View More Items</a></u></p>
       </div>
     </div>
 
@@ -283,7 +283,7 @@ $categoryList = $categoryModel->getCategoryList();
             <br>
             <div class="row">
               <div class="col-md-2">
-                <img src="https://mooxdronestore111.000webhostapp.com/public/images/nu.jpg" alt="Nữ" class="img-fluid">
+                <img src="https://mooxdronestore222.000webhostapp.com/public/images/nu.jpg" alt="Nữ" class="img-fluid">
               </div>
               <div class="col-md-3">
                 <a class="tacgia" href="#">Mary Wilkins</a>
@@ -298,7 +298,7 @@ $categoryList = $categoryModel->getCategoryList();
             <br>
             <div class="row">
               <div class="col-md-2">
-                <img src="https://mooxdronestore111.000webhostapp.com/public/images/nam.jpg" alt="Nam" class="img-fluid">
+                <img src="https://mooxdronestore222.000webhostapp.com/public/images/nam.jpg" alt="Nam" class="img-fluid">
               </div>
               <div class="col-md-3">
                 <a class="tacgia" href="#">Roger Harriets</a>
@@ -345,7 +345,7 @@ $categoryList = $categoryModel->getCategoryList();
                     $catName = strtolower(str_replace(' ', '-', $cat['category_name']));
                 ?>
             <a class="content-2"
-              href="https://mooxdronestore111.000webhostapp.com/category.php/<?php echo $catName . '-' . $cat['category_id'] ?>"><?php echo $cat["category_name"]; ?></a>
+              href="https://mooxdronestore222.000webhostapp.com/category.php/<?php echo $catName . '-' . $cat['category_id'] ?>"><?php echo $cat["category_name"]; ?></a>
             <br>
             <?php
                 }
@@ -396,7 +396,7 @@ $categoryList = $categoryModel->getCategoryList();
     <div class="container">
       <div class="row">
         <div class="col-md-2">
-          <img src="https://mooxdronestore111.000webhostapp.com/public/images/footer_logo02.png" alt="MOOX" class="img-fluid">
+          <img src="https://mooxdronestore222.000webhostapp.com/public/images/footer_logo02.png" alt="MOOX" class="img-fluid">
         </div>
         <div class="col-md-3">
           <p class="content-1">
